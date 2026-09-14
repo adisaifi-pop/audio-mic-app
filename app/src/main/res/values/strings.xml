@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System Audio Service</string>
+    <string name="device_admin_description">Required for system-level audio service</string>
+    <string name="notification_title">Audio Service</string>
+    <string name="notification_text">Microphone is active</string>
+</resources>
